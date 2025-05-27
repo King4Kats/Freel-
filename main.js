@@ -17,6 +17,7 @@ function createWindow() {
     skipTaskbar: true,
     resizable: true,
     titleBarStyle: 'hidden',
+    icon: path.join(__dirname, 'icon.ico'),
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false
