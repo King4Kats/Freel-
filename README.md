@@ -9,10 +9,10 @@ Idéal pour suivre ses tâches, gérer son temps, et garder le fil de ses projet
 
 ## ✨ Fonctionnalités
 
-- ✅ To-do list avec cases à cocher
-- ⏱️ Compteur de temps avec démarrage, pause et réinitialisation
-- 💾 Sauvegarde locale automatique (via `localStorage`)
-- 🧘 Interface sobre, pensée pour rester concentré
+- To-do list avec cases à cocher
+- Compteur de temps avec démarrage, pause et réinitialisation
+- Sauvegarde locale automatique (via `localStorage`)
+- Interface sobre
 
 ---
 
