@@ -1,0 +1,47 @@
+{
+  "name": "freelo",
+  "version": "1.0.0",
+  "description": "Widget de gestion de tâches avec compteur d'heures",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --publish never",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "widget",
+    "todo",
+    "timer"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.3.1",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.freelo.app",
+    "productName": "Freelö",
+    "icon": "assets/icon.ico",
+    "win": {
+      "target": "nsis",
+      "forceCodeSigning": false,
+      "icon": "assets/icon.ico"
+    },
+    "mac": {
+      "target": [],
+      "icon": "assets/icon.icns"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Freelö",
+      "menuCategory": true,
+      "runAfterFinish": true
+    }
+  }
+}
