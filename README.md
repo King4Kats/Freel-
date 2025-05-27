@@ -7,6 +7,9 @@ Il combine une to-do list et un compteur de temps dans une interface légère, s
 
 Idéal pour suivre ses tâches, gérer son temps, et garder le fil de ses projets simplement — sans distraction.
 
+![image](https://github.com/user-attachments/assets/fc95f07e-b13a-4072-acb1-c1b5514d1fd7)
+
+
 ---
 
 ## ✨ Fonctionnalités
