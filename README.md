@@ -1,3 +1,5 @@
+![Freelö Icon](assets/icone.png)
+
 # Freelö
 
 **Freelö** est un widget de bureau minimaliste conçu pour les freelances.  
